@@ -1,0 +1,42 @@
+---
+icon: lucide/rocket
+hide:
+  - toc
+---
+
+# Welcome
+Experience Malayalam Music in True Lossless Quality.
+
+!!! Links
+
+	- [Contact Admin](https://t.me/wavmalayalam?direct)
+	- [Lossless Channel](https://t.me/wavmalayalam)
+	- [Lossless Group](https://t.me/+PWhMQ7BOuZQ1MWNl)
+	- [MP3 Channel](https://t.me/MalayalamMusique)
+
+
+!!! Copyright
+	Our mission is to celebrate and preserve the rich heritage of Malayalam music. The audio files available here are intended strictly for non-commercial use, serving as a valuable archive of classic songs, an educational tool for musicians, and for the personal enjoyment of our community members. We hold the utmost respect for the original creators and copyright holders.
+
+!!! Advertisement
+	Advertisements appearing on our channels are from third parties and are not verified by us. We are not responsible for any purchases, scams, or other actions resulting from these ads. Please engage with advertisers cautiously and at your own risk. We are not liable for any losses.
+
+---
+പഴയതും പുതിയതുമായ മലയാളം ഗാനങ്ങൾ ഏറ്റവും ഉയർന്ന നിലവാരത്തിൽ (Lossless) പങ്കുവെക്കുന്നതിനും സംഗീത സംബന്ധമായ ചർച്ചകൾക്കും വേണ്ടി ഉള്ളതാണ് ഈ ഗ്രൂപ്പ്. മലയാളം സിനിമാ ഗാനങ്ങൾ, ആൽബം ഗാനങ്ങൾ, ഭക്തിഗാനങ്ങൾ എന്നിങ്ങനെ എല്ലാതരം മലയാളം ഗാനങ്ങളും ഈ ഗ്രൂപ്പിൽ ആവശ്യപ്പെടുകയും പങ്കുവെക്കുകയും ചെയ്യാം. ലോസ്ലെസ്സ് നിലവാരത്തിലുള്ള ഗാനങ്ങൾ മാത്രമേ ഗ്രൂപ്പിൽ ചോദിക്കാനും പങ്കുവെക്കാനും പാടുള്ളൂ.
+
+#### Rules
+- **ഗ്രൂപ്പിന്റെ ലക്ഷ്യം:** മലയാളം ഗാനങ്ങൾ Lossless, HiRes, അല്ലെങ്കിൽ CD നിലവാരത്തിൽ കണ്ടെത്താനും പങ്കുവെക്കാനും വേണ്ടിയുള്ളതാണ് ഈ ഗ്രൂപ്പ്. അതിനാൽ, ഗ്രൂപ്പിൽ ഈ നിലവാരത്തിലുള്ള മലയാളം ഗാനങ്ങൾ മാത്രം ആവശ്യപ്പെടുകയും പങ്കുവെക്കുകയും ചെയ്യുക.
+    
+- **അഭ്യർത്ഥിക്കുന്നതിന് മുൻപ് സെർച്ച് ചെയ്യുക:** ലോസ്ലെസ്സ് നിലവാരത്തിൽ ലഭ്യമായ ഒട്ടുമിക്ക മലയാള ഗാനങ്ങളും ഇതിനകം ഗ്രൂപ്പിൽ പങ്കുവെച്ചിട്ടുണ്ട്. അതിനാൽ, ഒരു ഗാനം അഭ്യർത്ഥിക്കുന്നതിന് മുൻപ് സിനിമയുടെയോ ആൽബത്തിന്റെയോ പേര് ഉപയോഗിച്ച് സെർച്ച് ചെയ്യുക.
+    കൃത്യമായ ഫലം ലഭിക്കാൻ, സിനിമയുടെ ശരിയായ പേര്  ഗൂഗിളിൽ നിന്ന് പകർത്തി ഗ്രൂപ്പിൽ തിരയുന്നത് ഉചിതമാണ്.
+
+- **അഭ്യർത്ഥനകൾ വ്യക്തമാക്കുക:** ഗാനങ്ങൾ അഭ്യർത്ഥിക്കുമ്പോൾ സിനിമയുടെയോ ആൽബത്തിന്റെയോ പേര് കൂടി ദയവായി ചേർക്കുക. സാധ്യമെങ്കിൽ, ഗാനം ലഭ്യമായ സ്ട്രീമിംഗ് പ്ലാറ്റ്ഫോമിൽ നിന്നുള്ള ലിങ്കും നൽകുന്നത് സഹായകമാകും.
+
+- **അന്യഭാഷാ ഗാനങ്ങൾ:** മറ്റു ഭാഷകളിലെ ഗാനങ്ങൾ ഒരു കാരണവശാലും ഈ ഗ്രൂപ്പിൽ അനുവദിച്ചിട്ടുള്ളതല്ല. അത്തരം ഗാനങ്ങൾക്കായി മറ്റുള്ള ചാനലുകൾ/ഗ്രൂപ്പുകൾ ഉപയോഗിക്കുക.
+
+- **നന്ദി രേഖപ്പെടുത്തുക:** നിങ്ങൾ അഭ്യർത്ഥിച്ച ഗാനത്തിന്റെയോ ആൽബത്തിന്റെയോ ലിങ്ക്, അഡ്മിൻമാരോ മറ്റ് അംഗങ്ങളോ നൽകുമ്പോൾ, ഒരു ചെറിയ അഭിനന്ദനം എന്ന നിലയിൽ ഒരു നന്ദി രേഖപ്പെടുത്തുകയോ (Thank you post) അല്ലെങ്കിൽ ആ പോസ്റ്റിന് ഒരു ലൈക്ക് റിയാക്ഷൻ നൽകുകയോ ചെയ്യേണ്ടത് അത്യാവശ്യമാണ്. 
+
+
+!!! warning
+
+    ഈ നിർദ്ദേശങ്ങൾ പാലിക്കാത്ത അംഗങ്ങളെ മുന്നറിയിപ്പില്ലാതെ ഗ്രൂപ്പിൽ നിന്ന് നീക്കം ചെയ്യുന്നതാണ്.
