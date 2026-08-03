@@ -47,15 +47,21 @@ Copyright &copy; 2026 The authors
 repo_url = "https://github.com/suhail-c/mlc-landing-page"
 
  nav = [
-     { "Welcome" = "index.md" },
-#     { "Get started" = "get-started.md" },
-#     { "Markdown in 5min" = "markdown.md" },
-     { "Articles" = [
-         { "Audio Basics" = "articles/audio-basics.md" },
-         { "Audio Source" = "articles/audio-source.md" },
-         { "Spectrogram" = "articles/spectrogram.md" },
-         { "Software & Tools" = "articles/software-and-tools.md" },
-    ]}
+     { "Home" = "index.md" },
+     {
+         "About" = [
+             { "Links" = "about/links.md" },
+             { "Copyright" = "about/copyright.md" },
+         ]
+     },
+     {
+         "Articles" = [
+             { "Audio Basics" = "articles/audio-basics.md" },
+             { "Audio Source" = "articles/audio-source.md" },
+             { "Spectrogram" = "articles/spectrogram.md" },
+             { "Software & Tools" = "articles/software-and-tools.md" },
+         ]
+     }
  ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
@@ -224,7 +230,7 @@ features = [
     # When tabs are enabled, top-level sections are rendered in a menu layer
     # below the header for viewports above 1220px, but remain as-is on mobile.
     # https://zensical.org/docs/setup/navigation/#navigation-tabs
-#    "navigation.tabs",
+    "navigation.tabs",
 
     # When sticky tabs are enabled, navigation tabs will lock below the header
     # and always remain visible when scrolling down.

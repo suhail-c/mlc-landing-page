@@ -1,3 +1,7 @@
+---
+icon: lucide/layout-grid
+---
+
 ### Music Players
 
 | **Name**         | **Platform**                 | **Type** | **Link**                                                                                                                                                          |

@@ -1,27 +1,11 @@
 ---
-icon: lucide/rocket
+icon: lucide/house
 hide:
   - toc
 ---
 
 # Welcome
-Experience Malayalam Music in True Lossless Quality.
 
-!!! Links
-
-	- [Contact Admin](https://t.me/wavmalayalam?direct)
-	- [Lossless Channel](https://t.me/wavmalayalam)
-	- [Lossless Group](https://t.me/+PWhMQ7BOuZQ1MWNl)
-	- [MP3 Channel](https://t.me/MalayalamMusique)
-
-
-!!! Copyright
-	Our mission is to celebrate and preserve the rich heritage of Malayalam music. The audio files available here are intended strictly for non-commercial use, serving as a valuable archive of classic songs, an educational tool for musicians, and for the personal enjoyment of our community members. We hold the utmost respect for the original creators and copyright holders.
-
-!!! Advertisement
-	Advertisements appearing on our channels are from third parties and are not verified by us. We are not responsible for any purchases, scams, or other actions resulting from these ads. Please engage with advertisers cautiously and at your own risk. We are not liable for any losses.
-
----
 പഴയതും പുതിയതുമായ മലയാളം ഗാനങ്ങൾ ഏറ്റവും ഉയർന്ന നിലവാരത്തിൽ (Lossless) പങ്കുവെക്കുന്നതിനും സംഗീത സംബന്ധമായ ചർച്ചകൾക്കും വേണ്ടി ഉള്ളതാണ് ഈ ഗ്രൂപ്പ്. മലയാളം സിനിമാ ഗാനങ്ങൾ, ആൽബം ഗാനങ്ങൾ, ഭക്തിഗാനങ്ങൾ എന്നിങ്ങനെ എല്ലാതരം മലയാളം ഗാനങ്ങളും ഈ ഗ്രൂപ്പിൽ ആവശ്യപ്പെടുകയും പങ്കുവെക്കുകയും ചെയ്യാം. ലോസ്ലെസ്സ് നിലവാരത്തിലുള്ള ഗാനങ്ങൾ മാത്രമേ ഗ്രൂപ്പിൽ ചോദിക്കാനും പങ്കുവെക്കാനും പാടുള്ളൂ.
 
 #### Rules
