@@ -44,7 +44,7 @@ Copyright &copy; 2026 The authors
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-repo_url = "https://github.com/zensical/zensical"
+repo_url = "https://github.com/suhail-c/mlc-landing-page"
 
  nav = [
      { "Welcome" = "index.md" },
